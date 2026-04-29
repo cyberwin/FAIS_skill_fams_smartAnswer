@@ -1,0 +1,22 @@
+{
+  "name": "fams-smartanswer",
+  "version": "1.0.0",
+  "skillName": "FAIS_skill_fams_smartAnswer",
+  "title": "FAMS仙盟智能自动回复技能",
+  "description": "东方仙盟FAMS架构专属智能应答模块，采用分文件规则隔离设计，独立规则目录统一管理，支持无限新增关键词与自定义回复文案。精准匹配AI短视频、账号检测、流量优化、运营推广类广告私信，命中关键词自动返回指定话术，主程序零修改即可横向扩容，轻量化、高可维护，适配全FAIS技能生态联动调用。",
+  "author": "东方仙盟🦞 FAMS",
+  "license": "MIT",
+  "main": "fams_smartAnswer_main.js",
+  "keywords": [
+    "FAMS",
+    "东方仙盟",
+    "smartAnswer",
+    "自动回复",
+    "广告拦截",
+    "关键词匹配",
+    "FAIS技能"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
